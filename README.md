@@ -7,3 +7,4 @@ La programación se divide en tres carpetas:
 - Hameg HM8118:   VIs para el funcionamiento del medidor LCR Hameg HM8118.
 - Programa:       VI del programa automatizado para la realizar las mediciones. Su programación se basa en las anteriores carpetas.
   
+Además se deja depositado un video de ejemplo de una configuración y monitorización del aplicativo desarrollado.
